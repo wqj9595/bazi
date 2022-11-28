@@ -2,7 +2,7 @@
 	.banner div{
 		width:20%;
 		float:left;
-		border:solid 1px brown;
+		border:solid 0.1px white;
 		overflow:hidden;
 		margin-left:0.1px
 		}
