@@ -18,7 +18,7 @@
 	}
 
 .img-group {position: relative; }        
-.img-tip {position: absolute; z-indent:2;text-align:center;;bottom:0.1%; } 
+.img-tip {position: absolute; z-indent:2;left: 50%;margin-left:-490px;bottom:0.1%; } 
 
 html {
   line-height: 1.15; /* 1 */
